@@ -11,6 +11,6 @@
    <h1>accueil</h1>
      <?php echo "moi aussi je dis bonjour"; ?>
    <?php echo "hello there !"; ?>
-
+ <?php echo "accepte dans visual studio cette fois stp"; ?>
 </body>
 </html>
