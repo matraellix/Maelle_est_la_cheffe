@@ -10,5 +10,6 @@
 
    <h1>accueil</h1>
    <?php echo "hello there"; ?>
+     <?php echo "moi aussi je dis bonjour"; ?>
 </body>
 </html>
