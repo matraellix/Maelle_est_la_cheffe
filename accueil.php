@@ -9,6 +9,8 @@
 <body>
 
    <h1>accueil</h1>
+     <?php echo "moi aussi je dis bonjour"; ?>
    <?php echo "hello there !"; ?>
+
 </body>
 </html>
