@@ -9,6 +9,6 @@
 <body>
 
    <h1>accueil</h1>
-   <?php echo "hello"; ?>
+   <?php echo "hello there"; ?>
 </body>
 </html>
